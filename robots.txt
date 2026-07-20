@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nosvozelesofficial-sudo.github.io/Nos-Voz-Eles/sitemap.xml
